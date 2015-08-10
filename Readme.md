@@ -4,7 +4,7 @@ Dibyendu Mondal, 130050046, 100%;
 Sai Sandeep Reddy, 130050052, 100%.
 
 Link website:
-http://www.cse.iitb.ac.in/~utkarshk/
+http://www.cse.iitb.ac.in/~dibyendu/old/
 
 Instructions:
 Replace the dominos.cpp file with the one provided in this assignment, 'make' it and execute ./bin/cs_251
